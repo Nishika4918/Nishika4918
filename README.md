@@ -6,3 +6,6 @@
 - 📫 How to reach me: email - nishikathakur4918@gmail.com
 - ⚡ Fun fact: I can give you a good recommendation for Kdrama😂😂
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=nishika4918&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
